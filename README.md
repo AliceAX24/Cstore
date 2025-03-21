@@ -3,10 +3,9 @@ This project is a simple client-server application for managing C/C++ libraries.
 
 ## Table of Contents
 1. [Installation](#Installation)
-2. [Configuration](#Configuration)
-3. [Usage](#Usage)
-4. [Features](#Features)
-5. [Contributing](#Contributing)
+2. [Usage](#Usage)
+3. [Features](#Features)
+4. [Contributing](#Contributing)
 
 # Installation
 ## Prerequisites
