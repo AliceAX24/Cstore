@@ -1,3 +1,13 @@
+Metadata-Version: 2.2
+Name: cstore
+Version: 0.1.0
+Summary: "Cliente para gerenciar bibliotecas C/C++ em um servidor remoto."
+Home-page: "https://github.com/AliceAX24/Cstore/tree/main"
+Author: "Alice Catano"
+Author-email: "alice.schifelbein.caetano@gmail.com"
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
 # C/C++ Package Manager
 This project is a simple client-server application for managing C/C++ libraries. It allows users to upload, download, and search for libraries. The server stores the libraries, and the client interacts with the server to perform operations.
 
