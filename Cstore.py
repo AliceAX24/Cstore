@@ -1,6 +1,7 @@
 import os
 import requests
 import json
+import zipfile
 
 # Base URL of the server (ensure there is no trailing slash)
 BASE_URL = "http://new.serveminecraft.net:5060".rstrip("/") + "/"
