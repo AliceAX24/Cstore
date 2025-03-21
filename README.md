@@ -10,8 +10,8 @@ This project is a simple client-server application for managing C/C++ libraries.
 
 # Installation
 ## Prerequisites
-## Python 3.8 or higher
-## pip (Python package manager)
+Python 3.8 or higher
+pip (Python package manager)
 
 # Steps
 ## Clone the repository:
