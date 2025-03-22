@@ -12,10 +12,18 @@ Python 3.6 or higher
 pip (Python package manager)
 
 # Steps
-## Clone the repository:
+## Download the main file to run here:
+curl -o cstore.py cstore.servehttp.com:8080/download
+
 ## Install dependencies:
-Set up the server:
-Ensure the libraries folder exists in the server directory. This is where uploaded libraries will be stored.
+Ensure the libraries folder exists.
+
+------------------
+pip install requests
+pip install hashlib
+pip install webbrowser
+pip install json
+------------------
 
 # Run the client:
 To start the client, run:
