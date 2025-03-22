@@ -65,6 +65,6 @@ Submit a pull request.
 # Contact
 For questions or support, please contact:
 
-Your Name: alice.schifelbein.caetano@gmail.com
+My email: alice.schifelbein.caetano@gmail.com
 
 GitHub: AliceAX24
