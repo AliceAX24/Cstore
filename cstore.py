@@ -4,6 +4,7 @@ import hashlib
 import webbrowser
 import json
 
+
 # URLs do servidor
 BASE_URL_FLASK = "http://cstore.servehttp.com:8080"  # URL do Flask
 BASE_URL_HTTP = "http://cstore.servehttp.com:5060"  # URL do servidor HTTP
