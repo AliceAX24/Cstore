@@ -5,8 +5,8 @@ import webbrowser
 import json
 
 # URLs do servidor
-BASE_URL_FLASK = "http://new.serveminecraft.net:8080"  # URL do Flask
-BASE_URL_HTTP = "http://new.serveminecraft.net:5060"  # URL do servidor HTTP
+BASE_URL_FLASK = "http://cstore.servehttp.com:8080"  # URL do Flask
+BASE_URL_HTTP = "http://cstore.servehttp.com:5060"  # URL do servidor HTTP
 
 # Arquivo para armazenar as credenciais
 CREDENTIALS_FILE = "credentials.txt"
