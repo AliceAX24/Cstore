@@ -24,28 +24,22 @@ To start the client, run:
 python Cstore.py
 The client provides a command-line interface with the following commands:
 
-## Create Account:
-create_account
+## create_account:
 Prompts for an email and password to create a new account.
 
-## Login:
-login
+## login:
 Prompts for an email and password to log in.
 
-## Upload Library:
-upload
+## upload:
 Prompts for the path to a folder. The folder's structure will be uploaded to the server.
 
-## Download Library:
-download
+## download:
 Prompts for the name of the library to download. The library will be downloaded and extracted to the current directory.
 
-## Search Library:
-search
+## search:
 Prompts for a search term. Returns a list of libraries matching the search term.
 
-## Exit:
-exit
+## exit:
 Exits the client.
 
 # Features
