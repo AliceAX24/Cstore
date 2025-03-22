@@ -16,7 +16,7 @@ pip (Python package manager)
 curl -o cstore.py cstore.servehttp.com:8080/download
 
 ## Install dependencies:
-Ensure the libraries folder exists.
+Ensure that this libraries exists.
 requests, hashlib, webbrowser, json
 
 # Run the client:
