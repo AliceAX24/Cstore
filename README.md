@@ -17,10 +17,7 @@ curl -o cstore.py cstore.servehttp.com:8080/download
 
 ## Install dependencies:
 Ensure the libraries folder exists.
-pip install requests
-pip install hashlib
-pip install webbrowser
-pip install json
+requests, hashlib, webbrowser, json
 
 # Run the client:
 To start the client, run:
