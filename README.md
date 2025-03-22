@@ -3,13 +3,12 @@ This project is a simple client-server application for managing C/C++ libraries.
 
 ## Table of Contents
 1. [Installation](#Installation)
-2. [Usage](#Usage)
-3. [Features](#Features)
-4. [Contributing](#Contributing)
+2. [Features](#Features)
+3. [Contributing](#Contributing)
 
 # Installation
 ## Prerequisites
-Python 3.8 or higher
+Python 3.6 or higher
 pip (Python package manager)
 
 # Steps
@@ -17,9 +16,6 @@ pip (Python package manager)
 ## Install dependencies:
 Set up the server:
 Ensure the libraries folder exists in the server directory. This is where uploaded libraries will be stored.
-
-# Run the server:
-python host.py
 
 # Run the client:
 To start the client, run:
